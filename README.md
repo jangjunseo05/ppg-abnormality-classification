@@ -1,7 +1,7 @@
 # Robust Arrhythmia Classification from PPG Signals
 
 Further details regarding this project are available in the attached PPT file!
-<br>
+&nbsp;<br>
 
 ## 📌 Project Overview
 This project focuses on building a robust 1D-CNN (VGG-based) model to classify arrhythmia using PPG biosignals. 
