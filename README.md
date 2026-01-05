@@ -2,7 +2,7 @@
 
 Further details regarding this project are available in the attached PPT file!
 
-
+\n
 ## 📌 Project Overview
 This project focuses on building a robust 1D-CNN (VGG-based) model to classify arrhythmia using PPG biosignals. 
 The core objective was to overcome the inherent noise and variability in human-generated data through a high-fidelity preprocessing pipeline.
