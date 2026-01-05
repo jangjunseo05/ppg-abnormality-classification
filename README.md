@@ -13,6 +13,6 @@ The core objective was to overcome the inherent noise and variability in human-g
   - Used **ReduceLROnPlateau** to achieve stable convergence despite the small dataset (20 patients).
 
 ## 📊 Results
-* **Accuracy:** 0.9848 
-* **AUC:** 1.0000 
+* **Accuracy:** 0.9545 
+* **AUC:** 0.9963 
 * **Insight:** The experiment proved that in human-centric sensing, the quality of signal interpretation (preprocessing) often dictates model performance more than the model capacity itself.
